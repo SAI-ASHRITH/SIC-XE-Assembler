@@ -1,0 +1,6 @@
+# Folder
+build/
+
+# Files
+*.glade~
+*.exe

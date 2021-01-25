@@ -1,0 +1,11 @@
+primer	START  0
+. What does this program do?
+first	LDA    #42
+	ADD    x
+	STA    x
+. What is the purpose of the following command?
+halt	J      halt
+
+. data
+x	WORD   22
+	END    first
